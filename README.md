@@ -53,3 +53,4 @@ Extension Ideas:
 - Add functionality to save grades to a file.
 - Allow the user to input custom subject names.
 - Expand GPA scale customization based on different academic systems.
+![ts-2](https://github.com/user-attachments/assets/b732171c-5445-4979-a47e-c72412780320)
